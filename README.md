@@ -1,5 +1,5 @@
 # Hi ! I am the most Fresh Cola in the world
-I'm currently living in South Korea and just playing around with python everyday.
+I'm just a high school student who enjoys playing games and pogramming 
 
 and I like Elaina :grinning:
 
