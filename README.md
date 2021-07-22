@@ -2,7 +2,7 @@
 
 what can a coke do???
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padosory5&theme=react&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padosory5&theme=monokai&show_icons=true)
 
 Skills
 
