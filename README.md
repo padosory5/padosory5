@@ -22,3 +22,11 @@
     <summary><h2 style="display: inline-block">About me</h2></summary>
   </ul>
 </div>
+
+- 🔭 I’m currently working on **Swift, Python, Java, C#, C**
+
+- ☁️ I've keen interest in AR/VR. So,I'm learning **AWS**
+
+- 📫 Feel free to reach me out **padosory5@gmail.com**
+
+- 🏠 Also check out my instagram @nedia_gnoh
