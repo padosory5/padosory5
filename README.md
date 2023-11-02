@@ -32,6 +32,7 @@ class fresh_Cola():
     self.username = "padosory5";
     self.location = "Seattle, USA";
     self.insta = "@nedia_gnoh";
+    self.interest = "I enjoy building custom keyboard :)";
   
   def __str__(self):
     return self.name
