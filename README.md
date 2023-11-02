@@ -19,7 +19,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><summary><h2 style="display: inline-block">About me</h2></summary>
+    <summary><h2 style="display: inline-block"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">About me</h2></summary>
   </ul>
 </div>
 
