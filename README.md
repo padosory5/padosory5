@@ -17,10 +17,4 @@
 
 <br>
 
-# About me
 
-Skills
-
-:computer: C, Java, Python, C#
-
-Currently working on elaina1.0
