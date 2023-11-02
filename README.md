@@ -31,7 +31,7 @@ def myself():
     major = "Electrical & Computer Engineering"
     platforms = {"MacOS", "Windows"}
     languages = {
-        "speaking": ["Korea", "English"],
+        "speaking": ["Korean", "English"],
         "frontend": ["Markdown", "HTML5", "CSS3", "Javascript", "Swift"],
         "backend": ["Python", "C/C++", "C#", "Java"],
         "databse": "SQL"
