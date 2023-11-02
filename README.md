@@ -25,20 +25,25 @@
 </div>
 
 ```python
-class fresh_Cola():
-    
-  def __init__(self):
-    self.name = "Aiden Hong";
-    self.username = "padosory5";
-    self.location = "Seattle, USA";
-    self.insta = "@nedia_gnoh";
-    self.interest = "I enjoy building custom keyboard :)";
-  
-  def __str__(self):
-    return self.name
+import Fresh_Cola as fc
 
-if __name__ == '__main__':
-    me = fresh_Cola()
+def myself():
+    major = "Electrical & Computer Engineering"
+    platforms = {"MacOS", "Windows"}
+    languages = {
+        "speaking": ["Korea", "English"],
+        "frontend": ["Markdown", "HTML5", "CSS3", "Javascript", "Swift"],
+        "backend": ["Python", "C/C++", "C#", "Java"],
+        "databse": "SQL"
+    }
+    ides = {"Pycharm", "VSCode", "IntelliJ", "Visual Studio", "Eclipse"}
+    tools = {"Git", "GitHub", "Unity"}
+    insta = "@nedia_gnoh"
+    hobby = "Custom Keyboard!!"
+
+
+if __name__ == "__main__":
+    myself()
 ```
 
 
@@ -58,3 +63,5 @@ if __name__ == '__main__':
 <img src="https://camo.githubusercontent.com/b0373df65e7539124dffc7a7995a384e86b4a02149e42b48bcdb6344ec0c2b00/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f266c6f676f3d756e69747926746578743d66616c736526616e696d6174696f6e3d7370696e2666696c6c3d626c61636b267465787466696c6c3d62666163653626" width="70">
 </div>
 <br><br>  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
