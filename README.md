@@ -25,7 +25,7 @@
 </div>
 
 ```python
-import Fresh_Cola as fc
+import aid6n_
 
 def myself():
     major = "Electrical & Computer Engineering"
