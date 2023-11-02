@@ -48,14 +48,4 @@ if __name__ == '__main__':
   </ul>
 </div>
 
-!(https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-!(https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-!(https://img.shields.io/badge/-GO-000?&logo=Go)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
+https://camo.githubusercontent.com/37ffc8f0cc3c3ebb8e71dcc7be84767d718348f52ed9956a41ec91323a1bb4c2/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f266c6f676f3d707974686f6e26746578743d66616c736526616e696d6174696f6e3d7370696e2666696c6c3d626c61636b267465787466696c6c3d62666163653626
