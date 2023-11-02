@@ -48,9 +48,9 @@ if __name__ == '__main__':
   </ul>
 </div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
+!(https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+!(https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+!(https://img.shields.io/badge/-GO-000?&logo=Go)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
