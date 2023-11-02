@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc">
   <ul align="center">
@@ -24,10 +24,18 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **Swift, Python, Java, C#, C**
+```python
+class fresh_Cola():
+    
+  def __init__(self):
+    self.name = "Aiden Hong";
+    self.username = "padosory5";
+    self.location = "Seattle, USA";
+    self.insta = "@nedia_gnoh";
+  
+  def __str__(self):
+    return self.name
 
-- ☁️ I've keen interest in AR/VR. So,I'm learning **AWS**
-
-- 📫 Feel free to reach me out **padosory5@gmail.com**
-
-- 🏠 Also check out my instagram @nedia_gnoh
+if __name__ == '__main__':
+    me = fresh_Cola()
+```
