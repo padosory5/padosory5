@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1>Hey, I'm Aiden</h1></summary>
+    <summary style="color: white;"><h1>Hey, I'm Aiden</h1></summary>
   </ul>
 </div>
 
