@@ -34,7 +34,7 @@ def myself():
         "speaking": ["Korean", "English"],
         "frontend": ["Markdown", "HTML5", "CSS3", "Javascript", "Swift"],
         "backend": ["Python", "C/C++", "C#", "Java"],
-        "databse": "SQL"
+        "database": "SQL"
     }
     ides = {"Pycharm", "VSCode", "IntelliJ", "Visual Studio", "Eclipse"}
     tools = {"Git", "GitHub", "Unity"}
